@@ -197,32 +197,22 @@ frontend/
     components/
     pages/
 k8s/
-  deployments/
-  services/
-  ingress/
+  deployments
+  services
+  ingress
 
----
 
-## ▶️ How to Run Locally (Docker)
-
-```bash
-docker-compose up --build
-```
-
-Backend: http://localhost:8000  
-Frontend: http://localhost:5173  
-
----
 
 ## ▶️ Deploy in Kubernetes
 
 ```bash
 kubectl apply -f k8s/
 ```
+modify etc/host file add 127.0.0.1 bankbot.local2
 
 Access via configured Ingress host.
-
 ---
+URL to access the app -  http://bankbot.local2
 
 ## 📊 Enterprise Simulation Capabilities
 
@@ -285,6 +275,5 @@ It demonstrates:
 
 ---
 
-## 📄 License
 
-Not required.
+
