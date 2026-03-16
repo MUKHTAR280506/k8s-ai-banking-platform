@@ -1,4 +1,4 @@
-# 🏦 k8s-ai-banking-platform
+# Kuberenetes deployed AI Banking Chatbot
 
 A production-grade, Kubernetes-first, AI-powered banking platform built with FastAPI, React, PostgreSQL, Qdrant, and LLM-based intelligence.
 
