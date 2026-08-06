@@ -8,7 +8,7 @@ This project simulates an enterprise-level digital banking system integrating Ge
 
 ## 🚀 Project Overview
 
-k8s-ai-banking-platform is an end-to-end AI-powered banking assistant designed to simulate real-world banking workflows including:
+kubernetes-deployed-ai-banking-platform is an end-to-end AI-powered banking assistant designed to simulate real-world banking workflows including:
 
 - Intelligent chatbot powered by LLM
 - Complaint detection using sentiment analysis
